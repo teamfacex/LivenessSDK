@@ -27,7 +27,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
 * [License](#-license)
 
-### 📚 Documentation 
+## 📚 Documentation 
 
 - Step 1: Sign up for a developer account through [FaceX User Portal](https://search.facex.io/#/register)
 - Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
@@ -124,7 +124,7 @@ You can set some properties for liveness.
 
 
 
-### 📋 Supported OS & SDK Versions
+## 📋 Supported OS & SDK Versions
 * iOS 12.0+
 * iPadOS 13.0+
 * Swift 5
